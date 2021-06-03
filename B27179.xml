@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The necessity of parliaments with seasonable directions for the more regular election of parliament-men : to which is added The bill for regulating elections of members to serve in Parliament, as it was read and committed by the House of Commons in the year 1679 ... / by a true Protestant, and English man.</title>
+            <author>True Protestant and English man.</author>
+         </titleStmt>
+         <extent>Approx. 59KB of XML-encoded text transcribed from 18 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B27179</idno><idno type="EEBO-CITATION">18486506_38605</idno>
+  <idno type="VID">38605</idno>
+  <idno type="EEBO-PROQUEST">2264176437</idno>
+  
+            <idno type="STC">Wing N371</idno>
+            <idno type="STC">ESTC R39786</idno>
+            <idno type="OCLC">18486506</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B27179)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 38605)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1639:35 or 1837:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The necessity of parliaments with seasonable directions for the more regular election of parliament-men : to which is added The bill for regulating elections of members to serve in Parliament, as it was read and committed by the House of Commons in the year 1679 ... / by a true Protestant, and English man.</title>
+                  <author>True Protestant and English man.</author>
+               </titleStmt>
+               <extent>[2], 31 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and sold by Rich. Janeway,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproductions of originals in the Harvard University Library (reel 1639) and Henry E. Huntington Library and Art Gallery (reel 1837).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Parliament.</term>
+               <term type="topical_term">Election law --  England.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1660-1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:38605:1"/>
+            <p>THE NECESSITY OF PARLIAMENTS: WITH Seasonable Directions For the more Regular ELECTION OF <hi>Parliament-Men.</hi>
+            </p>
+            <p>To which is added The BILL for Regulating ELE<g ref="char:EOLhyphen"/>CTIONS of MEMBERS to serve in PARLIAMENT.</p>
+            <p>As it was Read and Committed by the HOUSE of COMMONS, in the Year 1679.</p>
+            <p>Recommended to all Thinking, and Wise Men.</p>
+            <p>By a True Protestant, and <hi>English</hi> Man.</p>
+            <p>
+               <hi>LONDON,</hi> Printed, and sold by <hi>Rich. Janeway.</hi> 1689.</p>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:38605:2"/>
+            <pb n="1" facs="tcp:38605:2"/>
+            <head>THE NECESSITY OF PARLIAMENTS, &amp;c.</head>
+            <p>THat our approaching Parliament may be more suc<g ref="char:EOLhyphen"/>cessful for our Relief, before it be too late; by be<g ref="char:EOLhyphen"/>ing permitted to sit to redress our Grievances, and to perfect those good Designs, now in view, on the Coming in of the Illustrious Prince of <hi>Orange,</hi> to settle, and save us, these following Common-Law-Maxims, respect<g ref="char:EOLhyphen"/>ing King and Parliament, and the Common and Statute-Laws themselves (to prevent unnatural Disappointments, and Mis<g ref="char:EOLhyphen"/>chiefs) providing for the Sitting of Parliaments, till Grievan<g ref="char:EOLhyphen"/>ces be redress'd, and publick Safety secured and provided for, are tender'd to Consideration.</p>
+            <div type="part">
+               <div type="maxims">
+                  <head>Some known Maxims, taken out of the Law-Books.</head>
+                  <div n="1" type="subsection">
+                     <head>1. Respecting the King.</head>
+                     <q>
+                        <p>
+                           <hi>That the Kings of</hi> England <hi>can do nothing, as Kings, but what of Right they ought to do.</hi>
+                        </p>
+                        <p>
+                           <hi>That the King can do</hi> no <hi>Wrong,</hi> nor can he die.</p>
+                        <pb n="2" facs="tcp:38605:3"/>
+                        <p>
+                           <hi>That the King's Prerogative, and the Subjects Liberty are determined by Law.</hi>
+                        </p>
+                        <p>
+                           <hi>That the King hath no Power, but what the Law gives him.</hi>
+                        </p>
+                        <p>
+                           <hi>That the King is so called, from ruling well;</hi> Rex à bene regendo, [viz. <hi>according to Law;] Because he is a King whilst he rules well, but a Tyrant when he oppresseth.</hi>
+                        </p>
+                        <p>
+                           <hi>That Kings of</hi> England <hi>never appear more in their Glory, Splendour, and Majestick Sovereignty, than in Parliaments.</hi>
+                        </p>
+                        <p>
+                           <hi>That the Prerogative of the King cannot do Wrong, nor be a Warrant to do Wrong to any.</hi> Plowd. Comment. <hi>fol.</hi> 246.</p>
+                     </q>
+                  </div>
+                  <div n="2" type="subsection">
+                     <head>2. Respecting the Parliament.</head>
+                     <q>
+                        <p>
+                           <hi>That Parliaments constitute, and are laid in the Essence of the Government.</hi>
+                        </p>
+                        <p>
+                           <hi>That a Parliament is that to the Commonwealth, which the Soul is to the Body; which is only able to apprehend and un<g ref="char:EOLhyphen"/>derstand the Symptoms of all Diseases which threaten the Body Politick.</hi>
+                        </p>
+                        <p>
+                           <hi>That a Parliament is the Bulwark of our Liberty; the Boun<g ref="char:EOLhyphen"/>dary which keeps us from the Inundation of Tyranical Power, Arbitrary, and Ʋnbounded Will-Government.</hi>
+                        </p>
+                        <p>
+                           <hi>That Parliaments do make new, and abrogate old Laws, re<g ref="char:EOLhyphen"/>form Grievances in the Commonwealth, settle the Succession, grant Subsidies; and, in summ, may be called the great Physi<g ref="char:EOLhyphen"/>cian of the Kingdom.</hi>
+                        </p>
+                     </q>
+                     <p>From whence it appears, and is self-evident, if Parliaments are so absolutely necessary in this our Constitution, that they must then have their certain stationary times of Session and Continuance, for providing Laws essentially necessary for the Being, as well as the Well-Being of the People; and redressing all publick Grievances, either by the want of Laws, or of the undue Execution of them in being, or otherwise. And sui<g ref="char:EOLhyphen"/>table hereunto are those Provisions made by the Wisdom of our Ancestors, as recorded by them, both in the Common, and Statute-Law.</p>
+                  </div>
+               </div>
+               <div n="1" type="section">
+                  <pb n="3" facs="tcp:38605:3"/>
+                  <head>First, <hi>What we find hereof in the Common Law.</hi>
+                  </head>
+                  <q>
+                     <p>
+                        <hi>The Common Law</hi> (saith my Lord <hi>Coke) is that which is foun<g ref="char:EOLhyphen"/>ded in the immutable Law, and Light of Nature,</hi>
+                        <note place="margin">Coke, <hi>lib.</hi> 7 <hi>Rep.</hi> p. 12, 13.</note>
+                        <hi>agreeable to the Law of God; requiring Order, Government, Subjection and Protection,</hi> &amp;c. <hi>containing ancient Ʋsages, warranted by holy Scripture: And because it is generally given to all, it is there<g ref="char:EOLhyphen"/>fore called</hi> Common.</p>
+                     <p>And he further saith,
+<note place="margin">
+                           <hi>Lib.</hi> 9. Preface.</note>
+                        <hi>That in the Book called</hi> The Mirror of Justice, <hi>appeareth the whole Frame of the ancient Common Laws of this Realm, from the time of King</hi> Arthur, 516. <hi>till near the Conquest; which treats also of the Officers, as well as the Diversity and Distinction of the Courts of Justice (which are</hi> Officinae Legis;) <hi>and particularly, of the High Court of Parliament, by the Name of Council-General, or Parliament; so called, from</hi> Parler-la-ment, <hi>speaking judicially his Mind: And, amongst others, gives us the following Law of King</hi> Al<g ref="char:EOLhyphen"/>fred, <hi>who reigned about</hi> 880.</p>
+                  </q>
+                  <q xml:lang="fre" rend="margQuotes">
+                     <p>
+                        <hi>Le Roy</hi> Alfred <hi>ordeigna pur Ʋsage perpetuel que a deux foits per l'An ou plus sovene pur mistier in temps de Peace,</hi>
+                        <note place="margin">Mirror of Justice, <hi>ch.</hi> 1. <hi>Sect.</hi> 3.</note>
+                        <hi>se assembler a</hi> Londres, <hi>pur Parliamenter surle Guidement del People de Dieu, coment gents soy garderent de Pechers, vi<g ref="char:EOLhyphen"/>verent in quiet, receiverent droit per certain Ʋsages, &amp; saints Judgments.</hi>
+                     </p>
+                     <p>King <hi>Alfred</hi> ordaineth for an Usage perpetual, that twice a Year, or oftner if need be, in time of Peace, they shall assemble themselves at <hi>London,</hi> to treat in Parliament, of the Government of the People of God, how they should keep themselves from Offences, should live in quiet, and should receive Right by certain Laws, and holy Judg<g ref="char:EOLhyphen"/>ments.</p>
+                  </q>
+                  <q>
+                     <p>And thus (saith my Lord <hi>Coke</hi>) you have a Statute of King <hi>Alfred,</hi>
+                        <note place="margin">Lord <hi>Coke</hi>'s Comment upon it.</note> as well concerning the holding of this Court
+<pb n="4" facs="tcp:38605:4"/>of Parliament twice every Year at the City of <hi>London,</hi> as to manifest the three-fold End of this great and honourable Assembly of Estates. As,</p>
+                     <p>
+                        <hi>First,</hi> That the Subject might be kept from offending; that is, that Offences might be prevented, both by good and provident Laws, and by the due Execution thereof.</p>
+                     <p>
+                        <hi>Secondly,</hi> That Men might live safely, and in quiet.</p>
+                     <p>
+                        <hi>Thirdly,</hi> That all Men might receive Justice by certain Laws, and holy Judgments; that is, to the end that Ju<g ref="char:EOLhyphen"/>stice might be the better administred, that Questions and Defects in Laws might be by the High Court of Parlia<g ref="char:EOLhyphen"/>ment plained, reduced to Certainty, and adjudged.</p>
+                     <p>And he further tells us, That this Court being the most supream Court of this Realm, it is a part of the Frame of of the Common Laws; and, in some Cases, doth proceed legally, according to the ordinary Course of the Common Law; as it appeareth, 39 <hi>E.</hi> 3. f. <hi>Coke Inst. ch.</hi> 29. <hi>fel.</hi> 5.</p>
+                  </q>
+                  <p>To be short, Of this Court it is truly said, <q xml:lang="lat">
+                        <hi>Si Vetestatem spectes, est antiquissima; si Dignitatem, est honoratissima; si Jurisdictionem, est capacissima.</hi>
+                     </q>
+                     <q> If you regard Antiquity, it is the most ancient; if Dignity, the most honourable; if Ju<g ref="char:EOLhyphen"/>risdiction, the most sovereign.</q>
+                  </p>
+                  <p>And where Question hath been made, whether this Court continued during the Heptarchy, let the Records themselves make answer; of which he gives divers Instances in the times of King <hi>Ine, Offa</hi> and <hi>Ethelbert.</hi> After the Heptarchy, King <hi>Edward,</hi> Son of <hi>Alfred,</hi> King <hi>Ethelston, Edgar, Ethelred, Edmond</hi> and <hi>Canutus.</hi> All which (he saith) and many more, are extant, and publickly known; proving by divers Arguments, that there were Parliaments, unto which the Knights and Burgesses were summoned, both before, in, and after the Reign of the Conqueror, till <hi>Henry</hi> the Third's Time. And for your further Satisfaction herein, see 4 <hi>E.</hi> 3.25.49 <hi>E.</hi> 3.22, 23. 11 <hi>H.</hi> 4.2. <hi>Littl. lib.</hi> 2. <hi>c.</hi> 10.</p>
+                  <pb n="5" facs="tcp:38605:4"/>
+                  <p>Whereby we may understand,</p>
+                  <p n="1">1. That Parliaments are part of the Frame of the Com<g ref="char:EOLhyphen"/>mon Law, [which is laid in the Law and Light of Nature, Right Reason, and Scripture]</p>
+                  <p n="2">2. That, according to this Law of Equity and Righteous<g ref="char:EOLhyphen"/>ness, Parliaments ought frequently to meet, for the common Peace, Safety and Benefit of the People, and Support of the Government.</p>
+                  <p n="3">3. That Parliaments have been all along esteemed an es<g ref="char:EOLhyphen"/>sential part of the Government, as being the most ancient, honourable and sovereign Court in the Nation; who are fre<g ref="char:EOLhyphen"/>quently to sit, for the making and abolishing Laws, redres<g ref="char:EOLhyphen"/>sing of Grievances, and seeing to the due Administration of Justice.</p>
+                  <p n="4">4. That, as to the Place of Meeting, it was to be at <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> the Capital City, the Eye and Heart of the Nation; as being not only the Regal Seat, but the principal place of Ju<g ref="char:EOLhyphen"/>dicature, and Residence of the chief Officers, and Courts of Justice, where also the Records are kept, as well as the princi<g ref="char:EOLhyphen"/>pal place of Commerce and Concourse in the Nation; and to which the People may have the best Recourse, and where they may find the best Accommodation.</p>
+                  <p n="5">5. The Antiquity of Parliaments in this Nation, which have been so ancient, that no Record can give any Account of their Beginning, my Lord <hi>Coke</hi> thus tracing them from the <hi>Britains,</hi> through the <hi>Saxons, Danes</hi> and <hi>Normans,</hi> to our Days.</p>
+                  <p>So that, Not to suffer Parliaments to sit, to answer the great Ends for which they were instituted, is expresly con<g ref="char:EOLhyphen"/>trary to the Common Law; and so consequently of the Law of God, as well as the Law of Nature; and thereby Violence is offered to the Government it self, and Infringment of the Peoples fundamental Rights and Liberties.</p>
+               </div>
+               <div n="2" type="section">
+                  <pb n="6" facs="tcp:38605:5"/>
+                  <head>Secondly, <hi>What we find hereof in the Statute-Law.</hi>
+                  </head>
+                  <p>The Statute-Laws are Acts of Parliament; some whereof are declarative of the Common Law, the rest are the posi<g ref="char:EOLhyphen"/>tive Rule, which (as you have heard) is founded upon right Reason and Scripture; for we are told, That if any thing is enacted contrary thereto, it is void and null: As <hi>Coke Inst. lib.</hi> 2. <hi>cap.</hi> 29. <hi>fol.</hi> 15. <hi>Finch, pag.</hi> 3. 28 <hi>H.</hi> 8. <hi>cap.</hi> 27.</p>
+                  <p>The first of these Statutes, which require the frequent Meeting and Sitting of Parliaments, agreeable to the Com<g ref="char:EOLhyphen"/>mon Law, we find to be in the time of <hi>Edward</hi> the Third; <hi>viz.</hi> 4 <hi>E.</hi> 3. <hi>&amp; cap.</hi> 14. in these Words:</p>
+                  <p>
+                     <q rend="margQuotes">Item, <hi>It is accorded, that a Parliament shall be holden every Year once, or more often if need be.</hi>
+                     </q>
+                  </p>
+                  <p>The next is, in the Thirty sixth Year of the same King <hi>Edward</hi> the Third, <hi>cap.</hi> 10. <hi>viz.</hi>
+                  </p>
+                  <p>
+                     <q rend="margQuotes">Item, <hi>For the Maintenance of the said Articles and Sta<g ref="char:EOLhyphen"/>tutes, and redressing of divers Mischiefs and Grievances which daily happen, a Parliament shall be holden every Year, as at another time was ordained by a Statute, viz.</hi>
+                     </q> the afore<g ref="char:EOLhyphen"/>mentioned, in his fourth Year.</p>
+                  <p>And agreeable hereto are those Statutes upon the Rolls, <hi>viz.</hi> 5 <hi>E.</hi> 2. <hi>&amp;</hi> 1 <hi>R.</hi> 2. N<seg rend="sup">o.</seg> 95.</p>
+                  <p>By which Statutes it appeareth, that Parliaments ought annually to meet, to support the Government, and to re<g ref="char:EOLhyphen"/>dress the Grievances which may happen in the Interval of Parliaments; that being the great End proposed in their said Meetings.</p>
+                  <p>
+                     <hi>Now,</hi> For Parliaments to meet annually, and not suffered to sit to answer the Ends, but to be prorogued or dissolved before they have finished their Work, would be nothing but a deluding the Law, and a striking at the Foundation of the Government it self, and rendering Parliaments altogether useless: For it would be all one to have no Parliaments at all, as to have them turn'd off by the Prince, before they
+<pb n="7" facs="tcp:38605:5"/>have done that they were called and intrusted to do: For, by the same Rule whereby they may be so turn'd off one Ses<g ref="char:EOLhyphen"/>sion, they may be three Sessions, and so to threescore, to the breaking of the Government, and introducing Arbitrary Power. To prevent such intollerable Mischiefs and Incon<g ref="char:EOLhyphen"/>veniences, are such good Laws as these made in this King's time, and which were so sacredly observed in after times, that it was a Custom, especially in the Reigns of <hi>Henry</hi> the Fourth, <hi>Henry</hi> the Fifth, and <hi>Henry</hi> the Sixth, to have a Proclamation made in <hi>Westminster-Hall,</hi> before the End of every Session,
+<note n="*" place="margin">An honest and neces<g ref="char:EOLhyphen"/>sary Pro<g ref="char:EOLhyphen"/>clamation to be made every Par<g ref="char:EOLhyphen"/>liament.</note>
+                     <q rend="margQuotes">
+                        <hi>That all those who had any Matter to pre<g ref="char:EOLhyphen"/>sent to the Parliament, should bring it in before such a Day; for otherwise, the Parliament at that Day should determine.</hi>
+                     </q>
+                  </p>
+                  <p>Whereby it appears, the People were not to be eluded nor disappointed by surprizing Prorogations and Dissolutions, to frustrate, and make void the great Ends of Parliaments.</p>
+                  <p>And to this purpose saith a late learned Author, <q rend="margQuotes">
+                        <hi>That if there was no Statute, or any thing upon Record, extant, con<g ref="char:EOLhyphen"/>cerning the Parliaments sitting to redress Grievances, yet that I must believe that it is so by the fundamental Law of the Government, which must be lame and imperfect without it: [For otherwise, the Prince and his Ministers may do what they please, and their Wills may be their Laws.]</hi>
+                     </q>
+                  </p>
+                  <p>
+                     <q rend="margQuotes">
+                        <hi>Therefore it is provided for in the very Essence and Con<g ref="char:EOLhyphen"/>stitution of the Government it self; and this</hi> (saith our Au<g ref="char:EOLhyphen"/>thor) <hi>we may call the Common Law, which is of as much va<g ref="char:EOLhyphen"/>lue (if not more) than any Statute; and of which, all our good Acts of Parliament, and</hi> Magna Charta <hi>it self, is but declaratory. So that though the King is intrusted with the formal part of summoning and pronouncing the Dissolution of Parliaments, which is done by Writ, yet the Laws which ob<g ref="char:EOLhyphen"/>lige him (as well as us) have determined how, and when he shall do it; which is enough to shew, that the King's Share in the Soveraignty, that is, in the Parliament, is cut out to him by Law, and not left to his disposal.</hi>
+                     </q>
+                  </p>
+                  <pb n="8" facs="tcp:38605:6"/>
+                  <p>The next Statute we shall mention,
+<note place="margin">25 <hi>Ed.</hi> 3. <hi>cap.</hi> 23. Statute of Provisors.</note> to inforce this funda<g ref="char:EOLhyphen"/>mental Right and Privilege, is the 25th of <hi>Ed.</hi> 3. <hi>chap.</hi> 23. called <hi>The Statute of Provisors;</hi> which was made to prevent and cut off the Incroachments of the Bishops of <hi>Rome,</hi> whose Usurpations in disposing of Benefices occasioned intollerable Grievances; wherein, in the Preamble of the said Statute, it is expressed as followeth.</p>
+                  <p>
+                     <q rend="margQuotes">
+                        <hi>Whereupon the Commons have prayed our said Soveraign Lord the King, that sith the Right of the Crown of</hi> England, <hi>and the Law of the said Realm is such, that upon the Mis<g ref="char:EOLhyphen"/>chiefs and Dammage which happeneth to his Realm, he ought, and is bounden, of the Accord of his said People, in his Par<g ref="char:EOLhyphen"/>liament, thereof to make Remedy and Law, in avoiding the Mischiefs and Damage which thereof cometh; that it may please him thereupon to provide Remedy. Our Soveraign Lord the King seeing the Mischiefs and Damage before-na<g ref="char:EOLhyphen"/>med, and having regard to the said Statute, made in the time of his said Grandfather, and to the Causes contained in the same; which Statute holdeth always its force, and was never defeated or annulled in any Point; and by so much is bound by his Oath to do the same, to be kept as the Law of this Realm, though that by Sufferance and Negligence it hath since been attempted to the contrary: And also having re<g ref="char:EOLhyphen"/>gard to the grievous Complaints made to him by his People, in divers Parliaments holden heretofore, willing to ordain Remedy for the great Dammages and Mischiefs which have happened, and daily do happen by the said Cause,</hi> &amp;c. <hi>By the Assent of all the great Men, and Commonalty of his said Realm, hath ordained and established,</hi> &amp;c.</q>
+                  </p>
+                  <p>In which Preamble of the Statute we may observe,</p>
+                  <p n="1">1. The intollerable Grievance and Burthen, which was occasioned by the illegal Incroachments of the See of <hi>Rome.</hi>
+                  </p>
+                  <p n="2">2. The many Complaints the People had made, who, in those-dark Times, under Popery, were sensible of, groaning under those Burthens.</p>
+                  <pb n="9" facs="tcp:38605:6"/>
+                  <p n="3">3. The Endeavours used in vain by former Parliaments, to redress the same, and to bring their Laws in being, to have their force and effect.</p>
+                  <p n="4">4. The Acknowledgment of the King and Parliament, that the Obligation hereto was upon the King,</p>
+                  <p n="1">1. From the Right of the Crown, which obliged every King to pass good Laws.</p>
+                  <p n="2">2. The Statute in force.</p>
+                  <p n="3">3. The King's Oath to keep the old, and pass new Laws, for his People's safe-guard, which they should tender to him.</p>
+                  <p n="4">4. From the Sense of the People, expressed in their Com<g ref="char:EOLhyphen"/>plaints. And</p>
+                  <p n="5">5. From the Mischief and Damage which would other<g ref="char:EOLhyphen"/>wise ensue.</p>
+                  <p>And therefore, by the Desire and Accord of his People, he passeth this famous Law, the Preamble whereof is here recited.</p>
+                  <p>Another Statute to the same purpose you find in 2 <hi>Ric.</hi> 2. N<seg rend="sup">o.</seg> 28.</p>
+                  <p>
+                     <q rend="margQuotes">
+                        <hi>Also the Commons in Parliament pray, that forasmuch as Petitions and Bills, presented in Parliament by divers of the Commons, could not heretofore have their respective An<g ref="char:EOLhyphen"/>swers; That therefore both their Petitions and Bills in this present Parliament, as also others which shall be presented in any future Parliament, may have a good and gracious An<g ref="char:EOLhyphen"/>swer and Remedy ordained thereupon before the departing of every Parliament: And that to this purpose, a due Sta<g ref="char:EOLhyphen"/>tute be ensealed</hi> [or enacted] <hi>at this present Parliament, to be and and remain in force for all Times to come.</hi>
+                     </q>
+                  </p>
+               </div>
+               <div type="response">
+                  <pb n="10" facs="tcp:38605:7"/>
+                  <head>The King's Answer.</head>
+                  <p>
+                     <hi>THE King is pleas<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>d, that all such Petitions de<g ref="char:EOLhyphen"/>livered in Parliament, of Things</hi> (or Matters) <hi>which cannot otherwise be determined, a good and reasonable Answer shall be made, and given, before the Departure of Parliament.</hi>
+                  </p>
+                  <p>In which excellent Law we may observe,</p>
+                  <p n="1">1. A Complaint of former Remisness; their Bills having aforetime been pass'd by, their Grievances unredressed, by unseasonable dissolving of Parliaments before their Laws could pass.</p>
+                  <p n="2">2. That a Law might pass in that very Parliament, to re<g ref="char:EOLhyphen"/>ctifie that Abuse for the future. And</p>
+                  <p n="3">3. That it should not pass for a temporary Law, but for Perpetuity; being of such absolute Necessity, that before the Parliaments be dismissed, Bills of common Right might pass.</p>
+                  <p>And the King agreed hereto.</p>
+                  <p>Suitable hereto we have my Lord Chief Justice <hi>Coke,</hi> that great Oracle of the Law, in his <hi>Inst.</hi> 4. <hi>B. p.</hi> 11. asserting,
+<q rend="margQuotes">
+                        <hi>Petitions being truly preferr'd</hi> (though very many) <hi>have been answered by the Law, and Custom of Parliament, before the End of Parliament.</hi>
+                     </q>
+                  </p>
+                  <p>
+                     <q rend="margQuotes">This appears (saith he) by the ancient Treatise, <hi>De Mo<g ref="char:EOLhyphen"/>do tenendi Parliamentum,</hi> in these Words, faithfully trans<g ref="char:EOLhyphen"/>lated; <hi>The Parliament ought not to be ended, while any Pe<g ref="char:EOLhyphen"/>tition dependeth undiscussed; or, at the least, to which a determinate Answer is not made,</hi> Rot. Par. 17 E. 3. N<seg rend="sup">o.</seg> 60. 25 E. 3. N<seg rend="sup">o.</seg> 60. 50 E. 3. N<seg rend="sup">o.</seg> 212. 2 R. 2. N<seg rend="sup">o.</seg> 134. 2 R. 2. N<seg rend="sup">o.</seg> 38. 1 H. 4. N<seg rend="sup">o.</seg> 132. 2 H. 4. N<seg rend="sup">o.</seg> 325. 113.</q>
+                  </p>
+                  <pb n="11" facs="tcp:38605:7"/>
+                  <p>
+                     <q rend="margQuotes">
+                        <hi>And that one of the principal Ends of calling Parliaments is, for redressing of Grievances that daily happen,</hi>
+                     </q> 36 E. 3. cap. 10. 18 E. 3. cap. 14. 50 E. 3. N<seg rend="sup">o.</seg> 17. Lyon<hi>'s Case,</hi> Rot. Par. 1 H. 5. N<seg rend="sup">o.</seg> 17. 13 H. 4. N<seg rend="sup">o.</seg> 9.</p>
+                  <p>And that, as concerning the departing of Parliaments, <q>
+                        <hi>It ought to be in such a manner</hi> (faith <hi>Modus tenendi,) viz. To be demanded, yea, and publickly proclaimed in the Parliament, and within the Palace of the Parliament, whether there be any that hath delivered a Petition to the Parliament, and hath not received Answer thereto: If there be none such, it is to be supposed that every one is satisfied, or else answered unto at the least, so far forth, as by the Law he may be. And which Custom was observed in After-Ages, as you have heard before.</hi>
+                     </q>
+                  </p>
+                  <p>Concerning the Antiquity and Authority of this ancient Treatise, called <hi>Modus tenendi Parliamentum</hi> (saith my Lord <hi>Coke</hi>) whereof we make often use in our <hi>Institutes,</hi> certain it is, <q>
+                        <hi>that this</hi> Modus <hi>was rebearsed and declared before the Con<g ref="char:EOLhyphen"/>queror, at the time of his Conquest, and by him approved for</hi> England: <hi>And accordingly, he, according to</hi> Modus, <hi>held a Parliament for</hi> England; <hi>as appears by</hi> 21 E. 3. fol. 60.</q>
+                  </p>
+                  <p>Whereby you clearly perceive, that these wholsome Laws are not only in full Agreement with the Common Law, and declarative thereof; but in full accord with the Oath and Office of the Prince, who hath that great Trust by the Law lodged with him for the Good and Benefit, not Hurt and Mischief of the People, <hi>viz.</hi>
+                  </p>
+                  <p>
+                     <hi>First,</hi> These Laws are very suitable to the Office and Du<g ref="char:EOLhyphen"/>ty of a Ruler, and the End for which he was instituted by God himself, who commands him to do Judgment and Ju<g ref="char:EOLhyphen"/>stice to all, especially to the Oppressed; and not to deny them any Request for their Relief, Protection, or Welfare, 2 <hi>Sam.</hi> 22.3. 1 <hi>Chron.</hi> 13.1, to 5.2 <hi>Chron.</hi> 9.18, 19, 5, <hi>&amp;c. Est.</hi> 1.13. our Law-books injoining the same; as <hi>Bracton,
+<pb n="12" facs="tcp:38605:8"/>lib.</hi> 1. <hi>cap.</hi> 2. <hi>Lib.</hi> 3. <hi>cap.</hi> 9. <hi>fol.</hi> 107. <hi>&amp;c. Fortescue, cap.</hi> 9. <hi>fol.</hi> 15. <hi>cap.</hi> 7. <hi>fol.</hi> 5.11. <hi>Coke</hi> 7. Book of Reports. <hi>Calvin</hi>'s Case, <hi>fol.</hi> 11.</p>
+                  <p>
+                     <hi>Secondly,</hi> They are also in full Harmony with the King's Coronation-Oath, solemnly made to all his Subjects, <hi>viz. To grant, fulfil and defend all rightful Laws which the Com<g ref="char:EOLhyphen"/>mons of the Realm shall chuse, and to strengthen and maintain them after his Power.</hi>
+                  </p>
+                  <p>
+                     <hi>Thirdly,</hi> These Laws are also in full Agreement and One<g ref="char:EOLhyphen"/>ness with <hi>Magna Charta</hi> it self, that ancient fundamental Law, which hath been confirmed by at least forty Parliaments, <hi>viz. We shall deny, we shall defer to no Man Justice and Right;</hi> much less to the whole Parliament and Kingdom, in deny<g ref="char:EOLhyphen"/>ing, or deferring to pass such necessary Bills which the Peo<g ref="char:EOLhyphen"/>ples Needs call for.</p>
+                  <p>
+                     <hi>Object.</hi> But to all this which hath been said, it may be ob<g ref="char:EOLhyphen"/>jected, That several of our Princes have otherwise practised, by dissolving or (as laterly used, by) proroguing Parliaments at their pleasures, before Grievances were redressed, and pub<g ref="char:EOLhyphen"/>lick Bills of common Safety passed; and that as a Privilege belonging to the Royal Prerogative.</p>
+                  <p>Answ. <hi>To which it is answered, That granting they have so done; First, it is most manifest, that doth not therefore create a Right to them so to do, according to that known Ma<g ref="char:EOLhyphen"/>xim,</hi> A facto ad jus non valet Consequentia; <hi>especially, when such Actions are against so many express and positive Laws, such Principles of Common Right and Justice, and so many particular Ties and Obligations upon themselves to the contrary.</hi>
+                  </p>
+                  <p>
+                     <hi>Secondly,</hi> But if it had been so, yet neither can Preroga<g ref="char:EOLhyphen"/>tive be pleaded, to justifie such Practices, because the King hath no Prerogative, but what the Law gives him; and it can give none to destroy it self, and those it protects; but
+<pb n="13" facs="tcp:38605:8"/>the contrary. <hi>Bracton,</hi> in his Comments, <hi>pag.</hi> 487. tells us,
+<note place="margin">
+                        <hi>Bracton,</hi> p. 487.</note>
+                     <hi>That although the Common Law doth allow many Prerogatives to the King, yet it doth not allow any, that he shall wrong or hurt any by his Prerogative.</hi>
+                  </p>
+                  <p>Therefore it is well said by a late worthy Author upon this Point, <q>
+                        <hi>That what Power or Prerogative the Kings have in them, ought to be used according to the true and genuine In<g ref="char:EOLhyphen"/>tent of the Government; that is, for the Preservation and In<g ref="char:EOLhyphen"/>terest of the People: And not for the disappointing the Coun<g ref="char:EOLhyphen"/>sels of a Parliament, towards reforming Greivances, and ma<g ref="char:EOLhyphen"/>king provision for the future Execution of the Laws. And whenever it is applied to frustrate those Ends, it is a Viola<g ref="char:EOLhyphen"/>tion of Right, and an Infringment of the King's Coronation-Oath, who is obliged to pass or confirm those Laws his People shall chuse.</hi>
+                     </q> And though he had such a Prerogative by Law, yet it should not be so used, especially in time of imminent Danger and Distress.</p>
+                  <p>King <hi>Charles</hi> the First, in his Advice to His Late Majesty, in his <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, <hi>p.</hi> 239. tells him,
+<note place="margin">K. <hi>Ch.</hi> I. his Advice to His late Majesty.</note>
+                     <q>
+                        <hi>That his Prerogative is best shewed, and exercised, in remitting, rather than exact<g ref="char:EOLhyphen"/>ing the Rigour of the Laws; there being nothing worse than le<g ref="char:EOLhyphen"/>gal Tyranny.</hi>
+                     </q>
+                  </p>
+                  <p>
+                     <q>
+                        <hi>Nor would he have him entertain any Aversion, or Dislike of Parliaments; which in their right Constitution, with Free<g ref="char:EOLhyphen"/>dom and Honour; will never injure or diminish his Greatness; but will rather be as Interchangings of Love, Loyalty and Con<g ref="char:EOLhyphen"/>fidence between a Prince and his People.</hi>
+                     </q>
+                  </p>
+                  <p>It is true, some Flatterers and Traytors have presumed in defiande to their Countries Rights, to assert, that such a bound<g ref="char:EOLhyphen"/>less Prerogative belongs to Kings: As did Chief Justice <hi>Tri<g ref="char:EOLhyphen"/>silian, &amp;c.</hi> in <hi>Richard</hi> the Second's time; advising him, <q>
+                        <hi>That he might dissolve Parliaments at pleasure;</hi> and, <hi>That no Mem<g ref="char:EOLhyphen"/>ber should be called to Parliament, nor any Act passed in either House, without his Approbation in the first place;</hi> and, <hi>That whoever advised otherwise were Traytors.</hi>
+                     </q> But this Advice,
+<pb n="14" facs="tcp:38605:9"/>you read, was no less fatal to himself, than pernicious to his Prince, <hi>Baker</hi>'s <hi>Chron. p.</hi> 147, 148, and 159.</p>
+                  <p>King <hi>James</hi> the First, in his Speech to the Parliament, <hi>An<g ref="char:EOLhyphen"/>no</hi> 1609. gives them Assurance, <q>
+                        <hi>That he never meant to go<g ref="char:EOLhyphen"/>vern by any Law, but the Law of the Land; though it be dis<g ref="char:EOLhyphen"/>puted among them, as if he had an Intention to alter the Law, and govern by the Absolute Power of a King.</hi> But to put them out of doubt in that matter, he tells them, <hi>That all Kings, who are not Tyrants, or perjured, will bound themselves within the Limits of their Laws: And they that perswade the contra<g ref="char:EOLhyphen"/>ry, are Vipers and Pests, both against them, and the Common<g ref="char:EOLhyphen"/>wealth,</hi> Wilson. <hi>K. J.</hi> p. 46.</q>
+                  </p>
+               </div>
+            </div>
+            <div type="conclusion">
+               <head>The Conclusion.</head>
+               <p n="1">1. IF this be so, that by so great Authority (<hi>viz.</hi> so many Statutes in force, the Fundamentals of the Common Law, the Essentials of the Government it self, <hi>Magna Char<g ref="char:EOLhyphen"/>ta,</hi> the King's Coronation-Oath, so many Laws of God and Man;) the Parliament ought to sit, to redress Grievan<g ref="char:EOLhyphen"/>ces, and provide for common Safety, especially in Times of common Danger. (And that this is eminently so, who can doubt, that will believe his own Sense, and the Experience of the manifold Mischiefs which have been acted, and the ap<g ref="char:EOLhyphen"/>parent Ruin and Confusion that impends the Nation, by the restless Attempts of a bloody Interest, if speedy Remedy is not applied?) Then let it be query'd, whether, the People having had thus the Knife at the Throat, Cities and Habi<g ref="char:EOLhyphen"/>tations fired, and therein their Persons fried, Invasions and Insurrections threatned to destroy our Government and fun<g ref="char:EOLhyphen"/>damental Laws and Properties; nay, our Religion it self; they are not therefore justified in their important Cries, in their many humble Petitions to their King, fervent Ad<g ref="char:EOLhyphen"/>dresses,
+<pb n="15" facs="tcp:38605:9"/>earnest Claims for this their Birth-right here pleaded, which the Laws of the Kingdom, consonant to the Laws of God and Nature, has given them?</p>
+               <p n="2">2. If so, What then shall be said to those who have advi<g ref="char:EOLhyphen"/>sed to this high Violation of their Countries Rights, to the in<g ref="char:EOLhyphen"/>fringing so many just Laws, and exposing the Publick to those desperate Hazards, if not a total Ruin and Subversion of these Nations?</p>
+               <p>If King <hi>Alfred</hi> (as <hi>Andrew Horne,</hi> in his <hi>Mirror of Justice,</hi> tells us) hanged <hi>Darling, Segnor, Cadwine, Cole,</hi> and forty Judges more, for judging contrary to Law; and yet all those false Judgments were but in particular and private Cases; What Death do those Men deserve, who offer this Violence to the Law it self, and all the sacred Rights of their Coun<g ref="char:EOLhyphen"/>try?</p>
+               <p>If the Lord Chief Justice <hi>Thorpe,</hi> in <hi>Edward</hi> the Third's time, for receiving the Bribery of one hundred Pounds, was adjudged to be hanged, as one that had made the King break his Oath to the People; How much more guilty are they of making the King break his Coronation-Oath, that perswade him to act against all the Laws for holding Parliaments, and passing Laws therein, which he is so solemnly sworn to do?</p>
+               <p>And if the Lord Chief Justice <hi>Tresillian</hi> was hanged, drawn and quarter'd, for advising the King to act contrary to some Statutes only; What do those deserve, that advise the King to act, not only against some, but against all these ancient Laws and Statutes of the Realm?</p>
+               <p>And if <hi>Blake,</hi> the King's Council, but for assisting in the Matter, and drawing up Indictments by the King's Com<g ref="char:EOLhyphen"/>mand, contrary to Law, though it is likely he might plead the King's Order for it; yet, if he was hang'd, drawn and quarter'd for that, what Justice is due to them that assist in the total Destruction of all the Laws of the Nation, and, as much as in them lies, their King and Country too?</p>
+               <pb n="16" facs="tcp:38605:10"/>
+               <p>And if <hi>Ʋsk,</hi> the Under-Sheriff, (whose Office it is to exe<g ref="char:EOLhyphen"/>cute the Laws) for but endeavouring to aid <hi>Tresillian, Blake,</hi> and their Accomplices, against some of the Laws, was also, with five more, hang'd, drawn and quarter'd; what Punish<g ref="char:EOLhyphen"/>ment may they deserve, that aid and endeavour the Subver<g ref="char:EOLhyphen"/>sion of all the Laws of the Kingdom?</p>
+               <p>And if <hi>Empson</hi> and <hi>Dudley,</hi> in <hi>Henry</hi> the Eighth's time, though two of the King's Privy Council, were hang'd for procuring and executing an Act of Parliament, contrary to the fundamental Laws of the Kingdom, and to the great Ve<g ref="char:EOLhyphen"/>xation of the People; so that, though they had an Act of Parliament on their side, yet that Act being against the known Laws of the Land, were hang'd as Traytors, for put<g ref="char:EOLhyphen"/>ting that Statute in Execution; then what shall become of those who have no such Act to shelter themselves under; and who shall act, not only contrary to, but to the Destru<g ref="char:EOLhyphen"/>ction of the fundamental Laws of the Kingdom?</p>
+               <p>And how harmonious such Justice will be, the Text tells us, <bibl>
+                     <hi>Deut.</hi> 27.17.</bibl>
+                  <q>
+                     <hi>Cursed be he that removeth his Neighbour's Land-Mark: And all the People shall say,</hi> Amen.</q>
+               </p>
+               <p>That this next Parliament may have an happy Entrance and Issue, to answer the great Ends of Parliaments, and therein our present Exigences and Necessities, is the incessant Cry, and longing Expectation of all the Protestants in the Land.</p>
+            </div>
+            <div type="instructions">
+               <pb n="17" facs="tcp:38605:10"/>
+               <head>The Directions now follow.</head>
+               <p>AFter such a Crisis of Time as this, wherein both our Civil Liberties and Religion have been at stake, and and must always certainly stand or fall together, I thought I could not do a greater Service to the Publick, than to offer some Remedies, which might prevent the fatal Con<g ref="char:EOLhyphen"/>sequences of undue Elections, and Returns; especially, since the great Design of the Adversaries of our Religion, upon which they lay their whole Stress, and have used their ut<g ref="char:EOLhyphen"/>most Efforts, for these two or three Years last past, appears to be, the framing of such a Parliament, as might make way for the Change of our Religion: To compass which, they have used such unheard of Methods, and practised such open Violations upon the Rights and Freedoms of Parliaments, and Elections, as no Age can parallel, without any Colour of Law, or Precedent.</p>
+               <p>For the Demonstration of which, it shall suffice to give these few Instances.</p>
+               <p>Not to insist upon the <hi>Quo Warranto's</hi> brought, and Judg<g ref="char:EOLhyphen"/>ments given thereupon, against the Charter of <hi>London,</hi> and other places, at the latter end of the late King's Time; with the Methods taken to procure Surrenders from Cities and Corporations; with the exorbitant Fines, imposed upon the Rioters of <hi>London,</hi> at the Election, and the framing of Courts, Juries and Sheriffs to this purpose: Which yet had been done in the Forms, and under the Countenance of Law;
+<pb n="18" facs="tcp:38605:11"/>and therefore are only fit for the Consideration of a Parlia<g ref="char:EOLhyphen"/>ment; together with that Proviso introduced into all the New Charters, wholly inconsistent with the nature of a Corporation, wherein every Man hath a Free-hold, and the Corporation it self a Perpetuity of an Inheritance; and which manifestly subverts all the Right and Freedom of Elections, not only of the Members of the Corporation, but of their Representatives in Parliament, and have not yet the Coun<g ref="char:EOLhyphen"/>tenance of one Precedent or Judgment of any Court; and therefore it is hoped, will be declared illegal, and void, by the next succeeding Parliament.</p>
+               <p>All which Matters have been strangely improved and ex<g ref="char:EOLhyphen"/>tended by the Ministers, in the Reign of His Present Maje<g ref="char:EOLhyphen"/>sty, as might be easily demonstrated; but I shall only fix upon such as have been lately practised, which come within the former Rule, <hi>Of being without the Colour of Law, or Pre<g ref="char:EOLhyphen"/>cedent.</hi>
+               </p>
+               <p>
+                  <hi>First,</hi> First, and before all, That Method of Testing all the Officers in the Kingdom, from the highest, to the lowest, with these three Questions; and turning out all such as refu<g ref="char:EOLhyphen"/>sed to comply.</p>
+               <p n="1">1. <hi>Whether, if they were chosen to be Members of Parlia<g ref="char:EOLhyphen"/>ment, they would give their Voice to repeal the Penal Laws and Test?</hi> Directly opposite to the Right and Freedom of Parliaments, and the Duty of the Members thereof.</p>
+               <p n="2">2. <hi>Whether they would give their Voices to elect such as would repeal the Penal Laws and Test?</hi> In Subsersion of the Right of Election, and Freedom of Members.</p>
+               <p n="3">3. <hi>Whether they would stand by the King's Declaration?</hi> Wherein the King assumes to himself, to suspend all these Laws, without Limitation of Time or Persons.</p>
+               <pb n="19" facs="tcp:38605:11"/>
+               <p>
+                  <hi>Secondly,</hi> The under-hand imposing upon the Clergy, to address for, and then publickly, by Order, to read the De<g ref="char:EOLhyphen"/>claration; and the Proceeding against the Bishops, for not concurring therein; and against the Body of the Clergy, that refused to comply therewith.</p>
+               <p>
+                  <hi>Thirdly,</hi> The Testing the Corporations, by Addresses, or otherwise, to promise to elect such Members as should be for Taking off the Penal Laws and Test, when the King should please to call a Parliament; and the Turning out all such, from time to time, as refused.</p>
+               <p>
+                  <hi>Fourthly,</hi> The Imposing Charters upon several Burroughs in <hi>Cornwal</hi> and <hi>Devon,</hi> and elsewhere, before the Election of the last Parliament, without Petition; and taking away the Right of Election from the Generality, and restraining it to a few; which hath also been endeavoured upon other Bur<g ref="char:EOLhyphen"/>roughs since.</p>
+               <p>
+                  <hi>Fifthly,</hi> Procuring an Order to be enter'd in most of the Cinque-Ports, that the King should have the Nomination of one Member.</p>
+               <p>
+                  <hi>Sixthly,</hi> Appointing a Committee, or Commission, con<g ref="char:EOLhyphen"/>sisting, for the most part, of <hi>Roman Catholicks,</hi> both Lords and others, publickly to meet twice or three times a Week, to consult about the Method of framing a Parliament to these Ends, and give out Orders for the same; and especially, for the regulating of Corporations, as it is called; and employ<g ref="char:EOLhyphen"/>ing Commissoners into all Counties, under them.</p>
+               <p>
+                  <hi>Seventhly,</hi> The nominating many Lords Lieutenants, She<g ref="char:EOLhyphen"/>riffs, Mayors and Bayliffs, profess'd <hi>Roman Catholicks;</hi> and the Generality of the rest, such as, by reason of their Depen<g ref="char:EOLhyphen"/>dance upon the Court, Indigence of their Fortunes, or Ob<g ref="char:EOLhyphen"/>noxiousness
+<pb n="20" facs="tcp:38605:12"/>to the Laws, have, contrary to their Duties, gi<g ref="char:EOLhyphen"/>ven an Assurance to promote such Elections.</p>
+               <p>I have mentioned these, only to shew the great Necessity incumbent upon every good <hi>English Man,</hi> and <hi>Protestant,</hi> however differing in Opinion as to some Religious Matters, to use their utmost Endeavours, upon the approaching Ele<g ref="char:EOLhyphen"/>ction, to oppose and prevent all further illegal Practices, ei<g ref="char:EOLhyphen"/>ther in the Election, or Return: And the better to enable them, I shall propose this following Method, as I conceive, undoubtedly warranted by Law.</p>
+               <p n="1">I. That since, by the Statute of <hi>Westminster,</hi> 1 <hi>Car.</hi> 5. it is declared, that all Elections ought to be free; and the King forbids, under grievous Forfeitures, that no Great Men, nor other, by power of Arms, or by Malice, or Threatnings, should disturb to make free Elections: And by the Statute of 7 <hi>H.</hi> 4.15. it is declared, that Elections ought to be freely, and indifferently made, without Request, or Commandment, no Peer hath to do in the Election of the Commons, being no Suitor, or summonable to the County-Court, nor contribu<g ref="char:EOLhyphen"/>tary to the Ways for his Land; that therefore no City, Bur<g ref="char:EOLhyphen"/>rough, or Corporation, or the Members thereof, or Electors for the County, do admit of any Recommendation, Request, or Commandment from the King, or any Peer in Office, (who ought not, by the Law, to intermeddle in any of these Elections,) or make any Promise to any of them, for the Choice of any Man, before such Election; nor admit of the Presence of any Lord-Lieutenant, or of any Military Of<g ref="char:EOLhyphen"/>ficer, or Soldier, not having Right to give a Voice to the said Election; but to insist upon it, that they withdraw.</p>
+               <p n="2">II. That, after the Writ of Precept read, they cause to be read the Statutes of 7 <hi>H.</hi> 4.15. and 23 <hi>H.</hi> 6.15. wherein the Manner is prescribed for the Elections, both in Counties, Cities and Burroughs; and that they both pursue, and require
+<pb n="21" facs="tcp:38605:12"/>of the Sheriff, and chief Officers, the Observation thereof, and not to permit or suffer any Deviation from the same.</p>
+               <p n="3">III. That they do principally observe two things in the said Statutes: First, That as well the Return as the Ele<g ref="char:EOLhyphen"/>ction of the Knights, is to be made at the next County-Court after the receipt of the Writ, and the Sheriff not to Depart, or Dissolve the Court till such time as the Return be made. Secondly,
+<note place="margin">See also the Clause in the Writ, added by the Statute of 23 <hi>H.</hi> 6.15.</note> That both the Election and Return is to be made by Indenture, which is to be Sealed by every one of the Electors, and the Duplicate by the Sheriff, and the such Indenture shall be annexed to the Writ; and the such Indenture is the Return of the Sheriff: So that the Re<g ref="char:EOLhyphen"/>turn is in the Power of the Electors, and not of the Sheriff; the omission of which Sealing the Indenture, at the time of giving in their Votes, by every Elector, which is the stand<g ref="char:EOLhyphen"/>ing Poll of the Election, by <hi>Law,</hi> and no other Poll requi<g ref="char:EOLhyphen"/>red, hath given the opportunity to the Sheriff of practising all the Partiality imaginable at Polls, and by Adjourning of the Court to remote Places and Inns, after the Election, which he cannot do without the Consent of the Freeholders, by <hi>Law,</hi> unless in case of necessity, for want of Provisions, or Sickness broke out in the place since the last Court, or the like, as also of the false and double Returns made by them. The Method therefore to be taken is this, not whol<g ref="char:EOLhyphen"/>ly refusing the Poll, because it hath been long practised, and gives the Sheriff opportunity of examining as to 40 <hi>s. per annum,</hi> to prepare an Indenture, one part whereof to have several Skins of Parchment, to which (in case of Contest) either before or after the giving their Votes, every Elector should set his Name or Mark and Seal, such Sealing to be in the presence of some intrusted therewith, who may testifie the same; and such Seals to be dropt with hard Wax upon the Parchment, in rowes, with room to write the Names; which, at the end of the Election, with a Duplicate is to be presented to the Sheriff, and he required to annex the
+<pb n="22" facs="tcp:38605:13"/>same to his Writ; and if he refuse so to do the same, they may justifie the detaining him there till he comply; nor can he Adjourn or dissolve the Court till he hath performed the same, and sealed a Duplicate thereof, there being no oc<g ref="char:EOLhyphen"/>casion for such an Adjournment; nor is he Judge of any Exception, but only hath Power to Examine upon Oath, as to the 40 <hi>s. per annum.</hi>
+               </p>
+               <p n="4">IV. As to Cities, Burroughs, and Towns Corporate, the like Method is to be observed in their Elections and Returns; and though it be not particularly expressed in the said Sta<g ref="char:EOLhyphen"/>tutes, as to the manner of their Election and Return, as in the Case of the Knights of the Shire, yet the constant Pra<g ref="char:EOLhyphen"/>ctice of making Return by Indenture, either under the com<g ref="char:EOLhyphen"/>mon Seal of the Corporation, or Hands and Seals of the Electors, where no common Seal is, and annexing it to the Precept, and proceeding in the same manner by Votes and Poll, in case of a Contest, shews that this was the common <hi>Law</hi> and Custom of <hi>England,</hi> before the making of the said Statutes, and only re-inforced under Penalties by such Sta<g ref="char:EOLhyphen"/>tutes; and therefore the putting the Seal to this, and An<g ref="char:EOLhyphen"/>nexing it to the Precept, and Indorsing by the Mayor, or other chief Officer, upon the back of the Precept, that the Return of this Precept, is in an Indenture thereto annexed, is the Duty of the Mayor, and what he may be compelled to do after the Election, before he Adjourn or Dissolve the Court; and by a Clause in the Statute 23 <hi>H.</hi> 6.15. it is de<g ref="char:EOLhyphen"/>clared, The Citizens and Burgesses as have always been Cho<g ref="char:EOLhyphen"/>fen by Citizens and Burgesses, and no other, and returned to the Sheriff, and upon their Returns accepted and received by <hi>Parliament.</hi>
+               </p>
+               <p n="5">V. In case the Sheriff shall refuse to annex such Return and Precept to the Writ, for which end the Corporation ought to send some of their Number with the Mayor or chief
+<pb n="23" facs="tcp:38605:13"/>Officer; they may do well to detain the Return, and not de<g ref="char:EOLhyphen"/>liver it till the Parliament sits; and in case of any doubt of the Practice of the Sheriff and Mayor, after the Return made in manner aforesaid, they may keep the Return, and carry it in to the Sheriff, such Indenture so annexed, being as well the Return of the Mayor, as in the County of the Sheriff.</p>
+               <p n="6">VI. Whereas many Foreigners have been made Members of Corporations, which do not Live, nor Inhabit in the said Corporations, 'tis humbly conceived, that no Votes in Ele<g ref="char:EOLhyphen"/>ction can belong to them; for that it appears not only by the Statute 1 <hi>H.</hi> 5.1. and other Statutes that require the E<g ref="char:EOLhyphen"/>lectors to be Citizens and Burgesses of the said Cities and Bur<g ref="char:EOLhyphen"/>roughs, that are resiant on the Place, which though it be Di<g ref="char:EOLhyphen"/>spensed with as to the Persons Elected, being only a prohibi<g ref="char:EOLhyphen"/>tory Clause, and not disabling the Person to be Elected, or making the Election void, and that those Acts were made up<g ref="char:EOLhyphen"/>on Petition of the Gentlemen, not to be compelled to serve for Corporations, and so was granted to them as a Privilege, if they would take advantage of it, but <hi>Volenti non fit injuria,</hi> yet was it never Dispensed with, as to the Electors in Coun<g ref="char:EOLhyphen"/>ties, nor ought it to be so in Corporations or Burroughs; and that this is the Common Law of the Realm, appears by the Clause in the Statute 23 <hi>H.</hi> 6.15. which after the recital of the Statute 1 <hi>Hen.</hi> 5.1. declares, That the Citizens and Bur<g ref="char:EOLhyphen"/>gesses have always been Chosen by Citizens and Burgesses, and no other; and also, that even those that have been real Citizens or Freemen, or Inhabitants of Corporations, as ha<g ref="char:EOLhyphen"/>ving been Apprentices there, yet when they live out of the said Towns, cannot enjoy the Privileges that are granted to the said Corporations, as in the famous Judgment in Pri<g ref="char:EOLhyphen"/>zage, as to the Citizens of <hi>London:</hi> which shews that the Privileges are Local and not Personal; and though they have been sometimes admitted to give Votes, yet it is conceived, this is against Law, and cannot be defended.</p>
+               <pb n="24" facs="tcp:38605:14"/>
+               <p n="7">VII. Where Sheriffs, Mayors, and other chief Officers have not taken the Test, and will not comply with the Law, to make due Elections and Returns, it is conceived, that they may be justly excepted against, and the Elections and Returns made without them; and that where any Bur<g ref="char:EOLhyphen"/>rough hath a Corporation lately put upon them, neither the Election nor Return is altered thereby, but shall belong to the Inhabitants and Bailiff of the Burrough as formerly, and not to the Mayor or Bailiff by Charter.</p>
+            </div>
+         </div>
+         <div type="bill">
+            <pb n="25" facs="tcp:38605:14"/>
+            <head>THE BILL For Regulating Abuses in ELECTIONS OF MEMBERS To Serve in PARLIAMENT, As it was read a Second Time, and Committed, by the HOUSE of COMMONS, upon <hi>Saturday</hi> the 5th of <hi>April,</hi> 1679.</head>
+            <head type="sub">And now offered as Advice to the Consideration of the whole Kingdom.</head>
+            <p>FOR the remedying the many and great disorders, mis<g ref="char:EOLhyphen"/>carriages, inconveniences, disputes, and contests, ari<g ref="char:EOLhyphen"/>sing about the Elections and Returns of Knights, Citi<g ref="char:EOLhyphen"/>zens, and Burgesses to sit in Parliament, Be it Enacted by the Kings most Excellent Majesty, Lords Spiritual and Tempo<g ref="char:EOLhyphen"/>ral,
+<pb n="26" facs="tcp:38605:15"/>and Commons assembled, That for the time to come every person that at the time of any Election of Knights of any Shire or County at large, is, and by the space of one year next before such Election, hath been a Householder and Inhabitant in the same County, and within the same by all that time hath been (without fraud or design thereby to enable himself to give Voice) charged, rated, taxed to, and have payed and born his Scot and Lot towards the main<g ref="char:EOLhyphen"/>tenance and defraying the Poor, and other publick Charges and Payments, and who is not under one and twenty years of age; and is worth two hundred pounds in Fee, clear E<g ref="char:EOLhyphen"/>state of his own, over and besides his Debts, Charges, and Engagements by him owing and payable, or engaged in; and none other shall have Vote, Voice, and be Elector of Knights of the County or Shire wherein he so inhabits or dwells. That in every Inn-Shire City or Town that is both City and County, and in every other City, Town, Burrough, or place, that now do, or hereafter shall send Members to the Parliament (except the Cities of <hi>London, York, Norwich, Exeter,</hi> and <hi>Bristol</hi>) every person at the time of such E<g ref="char:EOLhyphen"/>lection of Members for to sit in Parliament (for any such place, that at the time of such respective Election, and by the like space of one year before, hath been a House<g ref="char:EOLhyphen"/>holder and Inhabitant within such respective City, Town, Burrough, or place (except before excepted) and by all that time hath been there charged, rated, taxed, and paid Scot and Lot, without fraud, as aforesaid; and not under one and twenty years of Age: And none o<g ref="char:EOLhyphen"/>thers shall have Vote and Voice, and be Elector in such re<g ref="char:EOLhyphen"/>spective City, Burrough, Town, or place, any Law, Charter, or <hi>non obstante</hi> in any Charter to the contrary notwithstand<g ref="char:EOLhyphen"/>ing. And that the respective Sheriffs, and other Officers, to whose care and management the Elections are committed, have hereby power and authority to administer unto, and to examine upon oath, the parties themselves concerning the
+<pb n="27" facs="tcp:38605:15"/>Qualifications and Matters aforesaid, That for the future no person by himself, or others, by or with his consent and ap<g ref="char:EOLhyphen"/>probation, shall by feasting, treating, entertaining with meat, drink, or otherwise; or by bribes, presents, rewards, or gifts, given, spent, promised, or engaged to, upon or amongst the Electors, or to or for their use or benefit, or to or for the only benefit or advantage of any County, City, Town, or place, sending members to Parliament, or the Inhabitants thereof, or under any pretended Charity for the Poor of any such Town or place, directly, or indirectly, labour or en<g ref="char:EOLhyphen"/>deavour to obtain or procure Elections of any person, or per<g ref="char:EOLhyphen"/>sons, to be Members or Representatives to sit in Parliament, under the pains and penalties ensuing (to wit) that every such person so labouring, or indeavouring by any such undue and illegal ways and means, shall be hereby disabled and un<g ref="char:EOLhyphen"/>capable of being or sitting as a Member of that Parliament, and also shall forfeit the sum of five hundred pounds: And that the City, Town, or place, where any such feasting, treating, or entertaining shall be manifestly and notoriously admitted or suffered, shall from that time forfeit their Privi<g ref="char:EOLhyphen"/>ledge of sending Members to Parliament: And in lieu there<g ref="char:EOLhyphen"/>of, an Election to be made of Members in their stead in some other Town, or place, within the same County, or else in the County at large, as the House of Commons in the next ensuing Parliament, that shall have or take notice of such forfeiture, shall appoint and direct: And it is hereby fur<g ref="char:EOLhyphen"/>ther Enacted, that all and every Justice of the Peace, Mayor, Bayliffs and Constables, having Jurisdiction or Authority in any such Town, or place, for the suppressing and preventing the misdemeanours and evil practises aforesaid, are hereby commanded and required not to permit any such feastings, treatings, or entertainments, for or in order to the end afore<g ref="char:EOLhyphen"/>said, but upon Oath and Examination (which they are here<g ref="char:EOLhyphen"/>by impowered to administer) or upon their own view, to arrest and apprehend all such misdoers, and them to Commit to Goal, there to remain, till they give good and sufficient
+<pb n="28" facs="tcp:38605:16"/>security not to offend in that kind for the future, and appear at the next Assizes, or general Sessions of the Peace for the County, or place, where the offence shall be committed, there to be proceeded against, and punished for his said of<g ref="char:EOLhyphen"/>fence according to Law: And that if any of the Officers or Ministers aforesaid, having information upon Oath, or other sufficient evidence of the fact, shall refuse or neglect to do his duty herein, he shall forfeit the sum of one hundred pounds for every such neglect or refusal: And that if any Mayor, Recorder, Alderman, Town-Clark, Burgess, Port-reeve, Bay<g ref="char:EOLhyphen"/>liff, Magistrate, or Officer, shall permit or suffer himself to be feasted, treated, or entertained, or shall directly or indi<g ref="char:EOLhyphen"/>rectly accept, take, or receive, any bribe, gift, present, or re<g ref="char:EOLhyphen"/>ward, to the intent and end aforesaid, he is hereby disabled to give any Vote, or to be Elector; and moreover shall for every such offence forfeit the sum of one hundred pounds. And it is hereby likewise Enacted, that no Writ or Suit shall be hereafter sued, prosecuted, or proceeded for wages, or any sum or sums of money due or demandable for wages, by any Knights, Citizens, or Burgesses, for or in respect of their ser<g ref="char:EOLhyphen"/>vices in Parliament; but all such wages are, and from hence<g ref="char:EOLhyphen"/>forth stand released and discharged, and for the avoiding of the abuses and undue means too often used by Sheriffs, Un<g ref="char:EOLhyphen"/>dersheriffs, Mayors, Bayliffs, and Officers, about such Election and Returns, and that there may be just, fair, and legal Ele<g ref="char:EOLhyphen"/>ctions and Returns hereafter made; Be it further Enacted by the Authority aforesaid, That no Sheriff, Port-reeve, Bayliff, Magistrate, or Officer, (except onely when need requires, from the evening to the morning of the next day succeed<g ref="char:EOLhyphen"/>ing, till Election be determined, or to some convenient place within two miles of the Town, or place, appointed, or set, for such Election) shall adjourn the said Election from that day or place appointed or set for the same, but shall fair<g ref="char:EOLhyphen"/>ly and indifferently proceed to finish the Election as soon as conveniently he can at the time and place appoint<g ref="char:EOLhyphen"/>ed,
+<pb n="29" facs="tcp:38605:16"/>without any other adjournment there, as aforesaid: And if any Adjournment <hi>de facto</hi> be made contrary to this Act, the proceeding afterward shall be void, and the person that had the majority of Voices at the time of such unlawful Ad<g ref="char:EOLhyphen"/>journment, shall be the person duely Elected, and shall be returned so to be: And if any person shall hereafter be, for consideration of money, bribes, presents, gifts, or rewards, directly or indirectly, given or promised, or ingaged to be given, or for fear or favour, by any Sheriff, Mayor, Bayliff, Port-reeve, or Officer, wrongfully and unduly Returned to be the persons Elected, which in truth and reality was not; Or if any Sheriff, Undersheriff, their Clarks, or Ministers, or any Mayor, Recorder, Town-Clark, Port-reeve, Bayliffs, or other Officer, or Magistrate intrusted with the ordering or making such Election, or Returns, shall not fairly, justly, ho<g ref="char:EOLhyphen"/>nestly, and impartially, according to the best of his skill and diligence, act and do his duty in the premises; in every such case the party offending shall forfeit, if a Sheriff, the sum of five hundred pound; if a Mayor, or other Officer, or Mini<g ref="char:EOLhyphen"/>ster, two hundred pound, and treble damages to the party grieved; and that all securities, promises, and engagements made or given to any Officer, for the indemnifying or sa<g ref="char:EOLhyphen"/>ving harmless concerning the premises, shall be absolutely, void, and of no effect; and every party giving or making such securities, promises, or ingagements, to forfeit five hun<g ref="char:EOLhyphen"/>dred pound for his offence in so doing: And further, for the avoiding all exactions, extortions, and briberies, under the pretence of gratuities, presents, or recompence, for dispatch, or towards charges, or otherwise, by any Sheriff, Undershe<g ref="char:EOLhyphen"/>riff, Sheriff's-Clark, or Minister, or by any Mayor, Port-reeve, Bayliff, or other Officer, or Minister, hereafter to be taken: Be it Enacted, That none of the said Officers, or Ministers, shall directly, or indirectly take, have, or receive, or agree, or contract to have or receive, for any warrant, or present, upon or by Virtue of any Writ for Election for Parliament, or for any return of any Writ, Mandate or Precept, above the
+<pb n="30" facs="tcp:38605:17"/>sum of two shillings six pence, under the pain of forfeiting ten times as much as he shall in such case take over and besides the sum of two shillings six pence, together with costs in every such suit to be recovered: All and every the penalties and forfeitures aforesaid (except the said forfeitures of treble da<g ref="char:EOLhyphen"/>mages) to be recovered by him, or them that shall, and will sue for the same, in any Court of Record, within the space of one year next ensuing such cause of action accrued; in which suit there shall be no allowance of, or admission of any privilege of Parliament, or other privileges, or of any Protection, or Injunction; nor of any Plea of another acti<g ref="char:EOLhyphen"/>on, or information for the same offence depending (except Oaths be made in the Court, where such Plea shall be plead<g ref="char:EOLhyphen"/>ed by both the Defendant and Plaintiff, and real Prosecutor therein, that the same is really and <hi>bona fide,</hi> brought for re<g ref="char:EOLhyphen"/>covery of the forfeiture herein, without any fraud or design to excuse or defend the offender from the forfeiture by the Statute imposed) which the Court where such Pleas shall be pleaded, are hereby enabled to examine, and according to the truth and reality thereof, to allow the faid Plea, or not; And for the better observation of this Act, all Sheriffs of Counties at large, shall in the place where the Election is to be made, immediately before they proceed to take the Votes of the Electors, cause this Statute to be audibly read in the presence of the Electors; And that all Sheriffs of Inn-Shires, or Cities, or Towns that are Counties of themselves, Mayors, Port-reeves, Bayliffs, and other Officers, and Ministers respe<g ref="char:EOLhyphen"/>ctively, shall immediately after the receipt of any Writ, or Precept, for such Election, or certain knowledge of a Parlia<g ref="char:EOLhyphen"/>ment to be chosen, set up this Act in their respective Halls, or other publick places, to be read and viewed; and also on the next Lords day after such certain notice of such Parlia<g ref="char:EOLhyphen"/>ment to be chosen, or after receipt of such Writ, Precept, or Mandate for such Election, and before the time of the Election, cause and procure this Statute to be publickly and audibly read in the Churches of their Counties, Cities,
+<pb n="31" facs="tcp:38605:17"/>Towns, or Burroughs, where such respective Elections are to be, immediately after Divine Service ended, and before the people assembled are departed? And further, for the prevention of the long continuance of any Parliament for the future, and thereby depriving the King and Kingdom of the benefits of successive Parliaments, It is hereby Enacted, That no Parliament shall hereafter have Continuance in any manner, by Prorogation, or Adjournment, or Session, or partly by one and partly by the other, or otherwise howso<g ref="char:EOLhyphen"/>ever, for above the space of two years from the day of the return of the Writ of Summons next ensuing, but at the end of the said two years shall be <hi>ipso facto</hi> dissolved: And that in every Indenture hereafter to be made or sealed by any Electors, there be a Clause therein inserted, That the person or persons are hereby authorized to serve in Parliament for the space of two years, from the day of the return of such Writ of Summons next ensuing, if the said Parliament shall so long continue, and no longer.</p>
+         </div>
+         <trailer>
+            <hi>FINIS.</hi>
+            <pb facs="tcp:38605:18"/>
+            <pb facs="tcp:38605:18"/>
+         </trailer>
+      </body>
+   </text>
+</TEI>
